@@ -9,7 +9,7 @@ I am a Computer Scientist who loves to work on Computer software related project
 * 🌍  I'm based in Punjab Pakistan
 * 🖥️  See my portfolio at [My Portfolio](http://ztm.com)
 * ✉️  You can contact me at [zg415915@gmail.com](mailto:zg415915@gmail.com)
-* 🚀  I'm currently working on [Recipe App](http://recipe.com)
+* 🚀  I'm currently working on [Workout App](http://workout1.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am BATMAN
