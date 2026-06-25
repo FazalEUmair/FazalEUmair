@@ -1,38 +1,75 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fazal E Umair
-=====================================================================================================================================
+# Fazal-E-Umair
+### AI Researcher & Full-Stack Developer
+📍 Gujranwala, Pakistan | ✉️ fazalumair71@gmail.com | 📞 +92 335 6192919 | 🌐 [github.com/FazalEUmair](https://github.com/FazalEUmair)
 
-Computer Scientist
-------------------
+---
 
-I am a Computer Scientist who loves to work on computer software-related projects
+## 🚀 Professional Summary
+Result-driven Computer Science student and researcher specializing in **Machine Learning, Reinforcement Learning, and Full-Stack Application Development**. Adept at leveraging modern backend systems like FastAPI alongside relational/non-relational databases to architect scalable solutions. Recognized as a top academic performer with a passion for building intelligent systems and clean, user-centric software.
 
-* 🌍  I'm based in Punjab, Pakistan
-* 🖥️  See my resume at [My Resume](https://FazalEUmair.github.io/MyResume/)
-* ✉️  You can contact me at [fazaleumair1@gmail.com](mailto:fazaleumair1@gmail.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am BATMAN
+---
 
-### Skills
+## 🎓 Education
 
+* **GIFT University, Gujranwala** *Bachelor’s in Computer Science (BSCS)* | **May 2023 – At Present**
+    * *Honors:* Top Performer Student Award
+* **Superior College, Gujranwala** *Intermediate in Computer Science (ICS)* | **Sep 2020 – 2022** * *Grade:* A
+* **Unique Group of Institutions, Gujranwala** *Matriculation in Biology* | **Aug 2015 – 2020** * *Grade:* A
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+---
 
+## 🛠️ Technical & Soft Skills
 
-### Socials
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, HTML, CSS |
+| **Frameworks & Backends** | FastAPI, Node.js, React, React Native |
+| **Databases** | SQL Databases, NoSQL Databases |
+| **Tools & Designing** | MS Visio, Git, GitHub, REST APIs |
+| **Productivity Suites** | MS Word, MS Excel, MS PowerPoint |
+| **Soft Skills** | Problem Solving, Team Collaboration, IT Support, Communication Skills |
+| **Spoken Languages** | English (Fluent), Urdu (Fluent), Punjabi (Fluent) |
 
-<p align="left"> <a href="https://www.github.com/umairkhan-1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 💻 Featured Projects
 
-<b>My GitHub Stats</b>
+### 🏥 Heart Disease Prediction System
+* **Description:** Conducted a comparative machine learning model evaluation utilizing structural datasets to predict clinical heart risks.
+* **Tech Stack:** Python, XGBoost, Random Forest, Logistic Regression, With and Without Scikit-Learn.
+* **Impact:** Enhanced diagnostic prediction analytics using robust feature mapping strategies.
 
-<a href="http://www.github.com/umairkhan-1"><img src="https://github-readme-stats.vercel.app/api?username=umairkhan-1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="umairkhan-1's GitHub stats" /></a>
+### 📊 E-Commerce Dataset Analysis & ML Modeling
+* **Description:** Implemented and evaluated multiple Machine Learning models on consumer e-commerce datasets to predict customer behavior, sales trends, and classification tasks.
+* **Tech Stack:** Python, With and Without Scikit-Learn, Pandas, NumPy, Predictive Modeling.
+* **Impact:** Analyzed model accuracy and performance metrics to derive data-driven business insights.
 
-<a href="http://www.github.com/umairkhan-1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umairkhan-1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### ⚔️ Richardson's Arms Race Differential Equation Implementation
+* **Description:** Developed a mathematical simulation implementing differential equations to model the dynamic equilibrium and competitive escalation between rival entities.
+* **Tech Stack:** Python, NumPy, SciPy (Odeint), Matplotlib.
+* **Impact:** Successfully vectorized and visualized complex mathematical stability models over time intervals.
 
-<a href="http://www.github.com/umairkhan-1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=umairkhan-1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🛍️ E-Commerce Web Platform
+* **Description:** Developed a responsive end-to-end full-stack e-commerce web application featuring dynamic product structures, interactive cart states, and checkout systems.
+* **Tech Stack:** HTML5, CSS3, JavaScript, SQL Database.
 
-<a href="https://github.com/umairkhan-1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkhan-1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 💼 Experience
+
+### 🖥️ CS Student Projects | GIFT University
+*Academic Technical Developer* | **May 2023 – Present**
+* Designed and managed university-level full-stack web architectures, software architectures, and automated database models.
+* Applied object-oriented paradigms and advanced algorithms to solve concrete, real-world computational logic.
+
+### 📱 Mobile Shop
+*Sales & Technical Support Representative* | **Previous Experience**
+* Managed product inventory logs, customer relationship cycles, and daily operations reporting.
+* Utilized **MS Word** and **MS Excel** to structurally format daily sale data trends and revenue analytics.
+* Provided hands-on technical guidance, device setup, and software troubleshooting advice for consumer mobile applications.
+
+---
+
+## 🏆 Awards & Distinctions
+* **Top Performer Student** – GIFT University, Gujranwala
+* **Algoverse AI Research Program** – Selected researcher for advanced AI learning paradigms.
