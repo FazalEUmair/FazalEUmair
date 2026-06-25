@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Scientist
 ------------------
 
-I am a Computer Scientist who loves to work on Computer software related projects
+I am a Computer Scientist who loves to work on computer software-related projects
 
-* 🌍  I'm based in Punjab Pakistan
-* 🖥️  See my portfolio at [My Portfolio](https://fazaleumair.github.io/Personalcv/)
+* 🌍  I'm based in Punjab, Pakistan
+* 🖥️  See my portfolio at [My Portfolio](https://fazaleumair.github.io/MyResume/)
 * ✉️  You can contact me at [fazaleumair1@gmail.com](mailto:fazaleumair1@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
