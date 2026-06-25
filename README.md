@@ -7,7 +7,7 @@ Computer Scientist
 I am a Computer Scientist who loves to work on computer software-related projects
 
 * 🌍  I'm based in Punjab, Pakistan
-* 🖥️  See my resume at [My Resume](https://fazaleumair.github.io/MyResume/)
+* 🖥️  See my resume at [My Resume](https://FazalEUmair.github.io/MyResume/)
 * ✉️  You can contact me at [fazaleumair1@gmail.com](mailto:fazaleumair1@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
