@@ -49,9 +49,6 @@ Result-driven Computer Science student and researcher specializing in **Machine 
 * **Tech Stack:** Python, NumPy, SciPy (Odeint), Matplotlib.
 * **Impact:** Successfully vectorized and visualized complex mathematical stability models over time intervals.
 
-### 🛍️ E-Commerce Web Platform
-* **Description:** Developed a responsive end-to-end full-stack e-commerce web application featuring dynamic product structures, interactive cart states, and checkout systems.
-* **Tech Stack:** HTML5, CSS3, JavaScript, SQL Database.
 
 ---
 
