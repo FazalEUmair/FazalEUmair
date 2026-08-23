@@ -1,6 +1,6 @@
 # Fazal-E-Umair
 ### AI Researcher & Full-Stack Developer
-📍 Gujranwala, Pakistan | ✉️ fazalumair71@gmail.com | 📞 +92 335 6192919 | 🌐 [github.com/FazalEUmair](https://github.com/FazalEUmair)
+📍 Gujranwala, Pakistan | ✉️ fazalumair.dev@gmail.com | 📞 +92 335 6192919 | 🌐 [github.com/FazalEUmair](https://github.com/FazalEUmair)
 
 ---
 
