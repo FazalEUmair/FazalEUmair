@@ -25,7 +25,7 @@ Result-driven Computer Science student and researcher specializing in **Machine 
 | **Languages** | Python, Java, JavaScript, HTML, CSS |
 | **Frameworks & Backends** | FastAPI, Node.js, React, React Native |
 | **Databases** | SQL Databases, NoSQL Databases |
-| **Tools & Designing** | MS Visio, Git, GitHub, REST APIs |
+| **Tools & Design ** | MS Visio, Git, GitHub, REST APIs |
 | **Productivity Suites** | MS Word, MS Excel, MS PowerPoint |
 | **Soft Skills** | Problem Solving, Team Collaboration, IT Support, Communication Skills |
 | **Spoken Languages** | English (Fluent), Urdu (Fluent), Punjabi (Fluent) |
@@ -37,11 +37,11 @@ Result-driven Computer Science student and researcher specializing in **Machine 
 ●	Architected an AI-driven web scraping and market-intelligence platform using a hybrid crawling engine (HTTPX for static pages, Playwright for JavaScript-heavy SPAs), capped at 50 URLs and a pagination depth of 3 per task to keep the pipeline stable under load.
 ●	Built a REST API-based, LLM-powered extraction pipeline with Pydantic-validated structured output, plus a 3-tier self-healing system (element, network, and data-level fallback) that recovers from selector changes and failures without manual intervention.
 ●	Developed a Multiple Linear Regression recommendation engine that scores products on value-for-money and generates human-readable market trend summaries.
-●	Built the full-stack architecture end to end: FastAPI/PostgreSQL REST backend with JWT authentication and Stripe-based SaaS subscription billing, version-controlled on Git, with a React/Tailwind frontend and real-time analytics dashboards.
+●	Built the full-stack architecture end-to-end: FastAPI/PostgreSQL REST backend with JWT authentication and Stripe-based SaaS subscription billing, version-controlled on Git, with a React/Tailwind frontend and real-time analytics dashboards.
 
 ### E-Commerce Dataset Analysis & ML Modeling
 * **Description:** Implemented and evaluated multiple Machine Learning models on consumer e-commerce datasets to predict customer behavior, sales trends, and classification tasks.
-* **Tech Stack:** Python, With and Without Scikit-Learn, Pandas, NumPy, Predictive Modeling.
+* **Tech Stack:** Python, with and without Scikit-Learn, Pandas, NumPy, and predictive modeling.
 * **Impact:** Analyzed model accuracy and performance metrics to derive data-driven business insights.
 
 ### Richardson's Arms Race Differential Equation Implementation
