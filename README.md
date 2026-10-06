@@ -34,11 +34,6 @@ Result-driven Computer Science student and researcher specializing in **Machine 
 
 ## 💻 Featured Projects
 
-### 🏥 Heart Disease Prediction System
-* **Description:** Conducted a comparative machine learning model evaluation utilizing structural datasets to predict clinical heart risks.
-* **Tech Stack:** Python, XGBoost, Random Forest, Logistic Regression, With and Without Scikit-Learn.
-* **Impact:** Enhanced diagnostic prediction analytics using robust feature mapping strategies.
-
 ### 📊 E-Commerce Dataset Analysis & ML Modeling
 * **Description:** Implemented and evaluated multiple Machine Learning models on consumer e-commerce datasets to predict customer behavior, sales trends, and classification tasks.
 * **Tech Stack:** Python, With and Without Scikit-Learn, Pandas, NumPy, Predictive Modeling.
