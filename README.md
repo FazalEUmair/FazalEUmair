@@ -33,13 +33,18 @@ Result-driven Computer Science student and researcher specializing in **Machine 
 ---
 
 ## 💻 Featured Projects
+### InfoMint — AI-Powered Product Intelligence Platform (Final Year Project)	React, FastAPI, PostgreSQL, LLM, Playwright
+●	Architected an AI-driven web scraping and market-intelligence platform using a hybrid crawling engine (HTTPX for static pages, Playwright for JavaScript-heavy SPAs), capped at 50 URLs and a pagination depth of 3 per task to keep the pipeline stable under load.
+●	Built a REST API-based, LLM-powered extraction pipeline with Pydantic-validated structured output, plus a 3-tier self-healing system (element, network, and data-level fallback) that recovers from selector changes and failures without manual intervention.
+●	Developed a Multiple Linear Regression recommendation engine that scores products on value-for-money and generates human-readable market trend summaries.
+●	Built the full-stack architecture end to end: FastAPI/PostgreSQL REST backend with JWT authentication and Stripe-based SaaS subscription billing, version-controlled on Git, with a React/Tailwind frontend and real-time analytics dashboards.
 
-### 📊 E-Commerce Dataset Analysis & ML Modeling
+### E-Commerce Dataset Analysis & ML Modeling
 * **Description:** Implemented and evaluated multiple Machine Learning models on consumer e-commerce datasets to predict customer behavior, sales trends, and classification tasks.
 * **Tech Stack:** Python, With and Without Scikit-Learn, Pandas, NumPy, Predictive Modeling.
 * **Impact:** Analyzed model accuracy and performance metrics to derive data-driven business insights.
 
-### ⚔️ Richardson's Arms Race Differential Equation Implementation
+### Richardson's Arms Race Differential Equation Implementation
 * **Description:** Developed a mathematical simulation implementing differential equations to model the dynamic equilibrium and competitive escalation between rival entities.
 * **Tech Stack:** Python, NumPy, SciPy (Odeint), Matplotlib.
 * **Impact:** Successfully vectorized and visualized complex mathematical stability models over time intervals.
